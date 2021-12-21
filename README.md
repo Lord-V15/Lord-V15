@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=Lord-V15&color=blueviolet)
-###  <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width=24> Welcome to the Lord's world <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width=24> 
+###  <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width=24> Welcome to my world <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width=24> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.retro-synthwave.com/wp-content/uploads/2016/10/retro-synthwave_GIF-00-41.gif" width="300px">
-
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://i.pinimg.com/originals/da/61/c3/da61c314b1e711a81d5280e5ab9ed399.gif" width="400px">
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://i.pinimg.com/originals/9e/f7/06/9ef706b1e18a4e1dbc14f9bfccf269e7.gif" width="200px">
 <p align="centre">
     <img align="centre" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lord-V15&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=onedark" height="180px"/>
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-V15&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=onedark&bg_color=00000000" />
@@ -18,7 +18,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###  Me👨‍💻 = NLP💬 + MLOps⚙️ + Cosmology🪐 
+
+###  Me @🥳 = Cosmology🪐 + ManUtd⚽️
+###  Me @👨‍💻 = NLP💬 + MLOps⚙️
 ### Tools I love ...
 <p>
 <a href="https://www.python.org"><img height="50" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></a>
