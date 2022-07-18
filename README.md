@@ -20,7 +20,7 @@
 -->
 
 ###  Me @Life 🥳 = Space🪐 + ManUtd⚽️ + Tech🖥
-###  Me @Work 👨‍💻 = NLP💬 + MLOps⚙️ + Qbits👾
+###  Me @Work👨‍💻 = NLP💬 + MLOps⚙️ + Qbits👾
 ### Tools I love ...
 <p>
 <a href="https://www.python.org"><img height="50" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></a>
