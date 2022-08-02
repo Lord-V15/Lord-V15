@@ -29,8 +29,9 @@
 <a href="https://fastapi.tiangolo.com"><img height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></a>
 <a href="https://spacy.io"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1280px-SpaCy_logo.svg.png"></a>
 <a href="https://www.docker.com"><img height="50" src="https://cdn-images-1.medium.com/max/1200/1*kcGDJHupTCUlgubqqEkCSg.png"></a>
-&nbsp; <a href="https://www.postgresql.org"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></a>
+&nbsp; <a href="https://www.mongodb.com"><img height="50" src="https://pluspng.com/img-png/logo-mongodb-png-mongo-db-badge-sticker-600.png"></a>
 &nbsp; <a href="https://www.elastic.co/products?elektra=home"><img height="50" src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png"></a>
+<a href="https://aws.amazon.com"><img height="50" src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png"></a>
 </p>
 
 </br>
