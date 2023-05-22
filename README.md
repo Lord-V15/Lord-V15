@@ -26,12 +26,13 @@
 <a href="https://www.python.org"><img height="50" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></a>
 &nbsp; <a href="https://jupyter.org"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></a>
 <a href="https://fastapi.tiangolo.com"><img height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></a>
-<a href="https://www.docker.com"><img height="50" src="https://cdn-images-1.medium.com/max/1200/1*kcGDJHupTCUlgubqqEkCSg.png"></a>
-&nbsp; <a href="https://www.mongodb.com"><img height="50" src="https://pluspng.com/img-png/logo-mongodb-png-mongo-db-badge-sticker-600.png"></a>
-&nbsp; <a href="https://www.elastic.co/products?elektra=home"><img height="50" src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png"></a>
+<a href="https://spacy.io"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1280px-SpaCy_logo.svg.png"></a>
+<a href="https://www.mongodb.com"><img height="50" src="https://pluspng.com/img-png/logo-mongodb-png-mongo-db-badge-sticker-600.png"></a>
+<a href="https://pandas.pydata.org/"><img height="50" src="https://pandas.pydata.org/static/img/pandas_white.svg"></a>
 <a href="https://aws.amazon.com"><img height="50" src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png"></a>
 <a href="https://www.digitalocean.com"><img height="50" src="https://i.pinimg.com/originals/a3/25/c3/a325c3ebd161403a8fce5645c2c5f4d9.png"></a>
-&nbsp; <a href="https://spacy.io"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1280px-SpaCy_logo.svg.png"></a>
+&nbsp; <a href="https://www.docker.com"><img height="50" src="https://cdn-images-1.medium.com/max/1200/1*kcGDJHupTCUlgubqqEkCSg.png"></a>
+
 </p>
 
 </br>
