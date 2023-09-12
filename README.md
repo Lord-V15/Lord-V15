@@ -37,8 +37,8 @@
 
 </br>
 
-<a href="https://twitter.com/lord_NGHTMRE">
-  <img align="left" alt="Lord's Twitter" width="22px" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" />
+<a href="https://twitter.com/lord__v">
+  <img align="left" alt="Lord's Twitter" width="22px" src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" />
 </a>
 <a href="https://www.linkedin.com/in/vibhansh-gupta//">
   <img align="left" alt="Lord's Linkdein" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG27.png" />
