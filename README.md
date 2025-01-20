@@ -23,8 +23,8 @@
 ###  Me @Work👨‍💻 = NLP💬 + MLOps⚙️ + Python🐍
 ### Tools I love ...
 <p>
-<a href="https://www.python.org"><img height="50" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></a>
-&nbsp; <a href="https://jupyter.org"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></a>
+<a href="https://www.python.org"><img height="50" src="https://www.python.org/static/img/python-logo.png"></a>
+<a href="https://jupyter.org"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></a>
 <a href="https://fastapi.tiangolo.com"><img height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></a>
 <a href="https://spacy.io"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1280px-SpaCy_logo.svg.png"></a>
 <a href="https://www.mongodb.com"><img height="50" src="https://pluspng.com/img-png/logo-mongodb-png-mongo-db-badge-sticker-600.png"></a>
