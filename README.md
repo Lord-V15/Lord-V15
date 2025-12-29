@@ -1,11 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=Lord-V15&color=blueviolet)
 ###  <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width=24> Welcome to my world <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width=24> 
-
-<!--<img width="922" alt="lord" src="https://user-images.githubusercontent.com/46837998/149945795-89a05907-1ac7-4c50-b058-5515ebcfe269.png">
--->
+<img width="420" alt="lord" src="https://user-images.githubusercontent.com/46837998/149945795-89a05907-1ac7-4c50-b058-5515ebcfe269.png">
 <p align="centre">
     <img align="centre" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lord-V15&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=merko" height="180px"/>
-  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-V15&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=merko&bg_color=00000000" />
+    <img height="120px" align="centre" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lord-V15&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=merko&bg_color=00000000" />
 </p>
 
 <!--
