@@ -18,7 +18,7 @@
 -->
 
 ###  Me @Life 🥳 = Space🪐 + ManUtd⚽️ + Tech🖥
-###  Me @Work👨‍💻 = NLP💬 + MLOps⚙️ + Python🐍
+###  Me @Work👨‍💻 = Product📑 + MLOps⚙️ + Python🐍
 ### Tools I love ...
 <p>
 <a href="https://www.python.org"><img height="50" src="https://www.python.org/static/img/python-logo.png"></a>
