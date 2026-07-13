@@ -22,7 +22,6 @@
 ### Tools I love ...
 <p>
 <a href="https://www.python.org"><img height="50" src="https://www.python.org/static/img/python-logo.png"></a>
-<a href="https://jupyter.org"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></a>
 <a href="https://fastapi.tiangolo.com"><img height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></a>
 <a href="https://spacy.io"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1280px-SpaCy_logo.svg.png"></a>
 <a href="https://www.mongodb.com"><img height="50" src="https://pluspng.com/img-png/logo-mongodb-png-mongo-db-badge-sticker-600.png"></a>
@@ -37,9 +36,6 @@
 
 <a href="https://www.linkedin.com/in/vibhansh-gupta//">
   <img align="left" alt="Lord's Linkdein" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG27.png" />
-</a>
-<a href="https://t.me/vibhanshg">
-  <img align="left" alt="Lord's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" />
 </a>
 <a href="https://about.me/vibhansh/">
   <img align="left" alt="Lord's about.me" width="22px" src="https://logos-download.com/wp-content/uploads/2019/06/About_Me_Logo_old.png" />
